@@ -1,0 +1,11 @@
+.build
+.mbed
+projectfiles
+*.py*
+mbed-os
+BUILD
+
+Adafruit_SSD1331_MbedOS6
+Adafruit-GFX-MbedOS6
+mbed-mqtt
+ntp-client
